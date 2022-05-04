@@ -1,4 +1,4 @@
-### Eae eu sou o Alisson Dvorak 👋
+### Eae, eu sou o Alisson Dvorak 👋
 
 - 🔭 Disponivel para novas vagas, atualmente focado em projetos pessoais 
 - 🌱 Estudando Flutter para desenvolvimento mobile
