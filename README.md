@@ -3,7 +3,7 @@
 - 🔭 Disponivel para novas vagas, atualmente focado em projetos pessoais 
 - 🌱 Estudando Flutter para desenvolvimento mobile
 - 📫 contato: alissondvorak@gmail.com
-- 🔍 Em busca de uma nova oportunidade na area de desenvolvimento
+- 🖥️ Atualmente tabalhando como machine learning developer
 - 💻 Projeto em destaque <https://tobby.app/>
 
 <div align="center">
