@@ -11,7 +11,6 @@
   <img align="center" alt="Alisson-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Alisson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alisson-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Alisson-Php" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Alisson-Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Alisson-sqlite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Alisson-c" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
