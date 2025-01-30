@@ -1,7 +1,5 @@
 ### Eae, eu sou o Alisson Dvorak 👋
 
-- 🔭 Disponivel para novas vagas, atualmente focado em projetos pessoais 
-- 🌱 Estudando Flutter para desenvolvimento mobile
 - 📫 contato: alissondvorak@gmail.com
 - 🖥️ Atualmente tabalhando como machine learning developer
 - 💻 Projeto em destaque <https://tobby.app/>
