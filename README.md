@@ -7,7 +7,7 @@
 
 - 👨‍💻E alguns projetos pessoais como [Tobby App](https://play.google.com/store/apps/details?id=br.com.tobby.tobby_app&hl=pt_BR)
 
-- 👨‍💻E tambem no **FIIA**
+- 👨‍💻E tambem no [FIIA](https://www.fiia.com.br/)
 
 - ⚙️Minha linguagem principal de programação eh Python, por mais que meus status não concorde com isso kkkk
 
