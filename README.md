@@ -9,7 +9,6 @@
 
 - 👨‍💻E tambem no [FIIA](https://www.fiia.com.br/)
 
-- ⚙️Minha linguagem principal de programação eh Python, por mais que meus status não concorde com isso kkkk
 
 
 ## 🌐 Sociais:
